@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lettuce-de.linkpc.net/sitemap.xml
